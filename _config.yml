@@ -23,9 +23,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "/blog.md", title: "Blog"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Email: nrc6 at rice.edu"}
-  - {title: "Github", url: "https://github.com/ncao27"}
-  - {title: "LinkedIn", url: "https://www.linkedin.com/in/nathan-rui-cao-nrc/"}
+  - {title: "Github", icon: github,  url: "https://github.com/ncao27"}
+  - {title: "LinkedIn", icon: rss, url: "https://www.linkedin.com/in/nathan-rui-cao-nrc/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
