@@ -18,7 +18,7 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "nathan_cao_cv.pdf", title: "CV"}
+  - {file: "Nathan Cao Resume (m).pdf", title: "CV"}
   - {file: "/blog.md", title: "Featured Projects"}
   - {file: "/blog.md", title: "Blog"}
 
