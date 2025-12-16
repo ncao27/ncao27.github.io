@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Welcome to Nathan Cao's Corner"
+author: "Nathan Cao"
+description: "Junior studying Electrical and Computer Engineering at Rice University. Interested in DSP and imaging."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
