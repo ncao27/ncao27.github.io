@@ -1,4 +1,4 @@
-title: "Welcome to Nathan Cao's Corner"
+title: "Nathan Cao"
 author: "Nathan Cao"
 description: "Junior studying Electrical and Computer Engineering at Rice University. Interested in DSP and imaging."
 permalink: /:title/
@@ -22,9 +22,9 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "nrc6@rice.edu"}
+  - {title: Github, icon: github, url: "https://github.com/ncao27"}
+  - {title: LinkedIn, icon: rss, url: "https://www.linkedin.com/in/nathan-rui-cao-nrc/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
