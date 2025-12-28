@@ -13,9 +13,7 @@ Long story short, I suck at webdev so for the most part I dreaded doing this. In
 
 ## A little about me
 ### Education
-Currently I am a junior studying Electrical and Computer Engineering at Rice University doing medical imaging research with overarching interests in FPGAs, data science, and medical device instrumentation. 
-
-Prior to Rice, I graduated from Chadwick School in Palos Verdes Peninsula with honors (Cum Laude) and was Math Team, Science Olympiad Team, and Coding Club captains. I also conducted select pieces for the Chadwick Orchestra, and played Alto Saxophone for the Palos Verdes Symphonic Band and the Asia America Youth Symphony. In a past life I (very poorly) played piano. 
+Currently I am a junior studying Electrical and Computer Engineering at Rice University doing medical imaging research with overarching interests in FPGAs, data science, and medical device instrumentation. Prior to Rice, I graduated from Chadwick School in Palos Verdes Peninsula with honors (Cum Laude) and was Math Team, Science Olympiad Team, and Coding Club captains. I also conducted select pieces for the Chadwick Orchestra, and played Alto Saxophone for the Palos Verdes Symphonic Band and the Asia America Youth Symphony. In a past life I (very poorly) played piano. 
 
 ### Athletics
 I love sports too. In high school I played competitive badminton (ranked top 30 in the US for under 17 boy's singles), and I'm currently enjoying running and biking very much. 
