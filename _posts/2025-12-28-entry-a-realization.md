@@ -1,5 +1,5 @@
 ---
-title:  "Entry 1: A Realization"
+title:  "Entry One: A Realization"
 layout: post
 ---
 
